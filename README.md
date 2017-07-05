@@ -12,7 +12,7 @@ A light Sass/CSS framework, built with the following things in mind:
 
 The framework is very modular and can easily be customized according to specific needs. Please note that the whole code is commented in the Sass partials files, just open them with your favorite text editor.
 
-Want to know more? Visit [fox-css.com](http://fox-css.com).
+Want to know more? Visit [the demo and documentation](http://ronanlevesque.fr/projets/fox-css/).
 
 ## Changelog
 
